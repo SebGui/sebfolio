@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.a41dc40d.chunk.css",
-    "main.js": "/static/js/main.d0034b93.chunk.js",
-    "main.js.map": "/static/js/main.d0034b93.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1983f95d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1983f95d.js.map",
-    "static/css/2.8887c2d4.chunk.css": "/static/css/2.8887c2d4.chunk.css",
-    "static/js/2.6de91a65.chunk.js": "/static/js/2.6de91a65.chunk.js",
-    "static/js/2.6de91a65.chunk.js.map": "/static/js/2.6de91a65.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.8887c2d4.chunk.css.map": "/static/css/2.8887c2d4.chunk.css.map",
-    "static/css/main.a41dc40d.chunk.css.map": "/static/css/main.a41dc40d.chunk.css.map",
-    "static/js/2.6de91a65.chunk.js.LICENSE.txt": "/static/js/2.6de91a65.chunk.js.LICENSE.txt",
-    "static/media/160gMockupNewHomemade.13038d0f.png": "/static/media/160gMockupNewHomemade.13038d0f.png",
-    "static/media/CerbexMockupNewHomemade.192982d4.png": "/static/media/CerbexMockupNewHomemade.192982d4.png",
-    "static/media/ImanguMockupNewHomemade.9cce9cd4.png": "/static/media/ImanguMockupNewHomemade.9cce9cd4.png",
-    "static/media/Profile.69559d0a.jpg": "/static/media/Profile.69559d0a.jpg",
-    "static/media/work-styles.css": "/static/media/arrowLeft.04f86038.svg",
-    "static/media/grataMockupNewHomemade.ba3580ba.png": "/static/media/grataMockupNewHomemade.ba3580ba.png",
-    "static/media/mapMarker.cd6b0a85.png": "/static/media/mapMarker.cd6b0a85.png"
+    "main.css": "/sebfolio.github.io/static/css/main.a0e8046e.chunk.css",
+    "main.js": "/sebfolio.github.io/static/js/main.df7e3992.chunk.js",
+    "main.js.map": "/sebfolio.github.io/static/js/main.df7e3992.chunk.js.map",
+    "runtime-main.js": "/sebfolio.github.io/static/js/runtime-main.c39a545e.js",
+    "runtime-main.js.map": "/sebfolio.github.io/static/js/runtime-main.c39a545e.js.map",
+    "static/css/2.8887c2d4.chunk.css": "/sebfolio.github.io/static/css/2.8887c2d4.chunk.css",
+    "static/js/2.6de91a65.chunk.js": "/sebfolio.github.io/static/js/2.6de91a65.chunk.js",
+    "static/js/2.6de91a65.chunk.js.map": "/sebfolio.github.io/static/js/2.6de91a65.chunk.js.map",
+    "index.html": "/sebfolio.github.io/index.html",
+    "static/css/2.8887c2d4.chunk.css.map": "/sebfolio.github.io/static/css/2.8887c2d4.chunk.css.map",
+    "static/css/main.a0e8046e.chunk.css.map": "/sebfolio.github.io/static/css/main.a0e8046e.chunk.css.map",
+    "static/js/2.6de91a65.chunk.js.LICENSE.txt": "/sebfolio.github.io/static/js/2.6de91a65.chunk.js.LICENSE.txt",
+    "static/media/160gMockupNewHomemade.13038d0f.png": "/sebfolio.github.io/static/media/160gMockupNewHomemade.13038d0f.png",
+    "static/media/CerbexMockupNewHomemade.192982d4.png": "/sebfolio.github.io/static/media/CerbexMockupNewHomemade.192982d4.png",
+    "static/media/ImanguMockupNewHomemade.9cce9cd4.png": "/sebfolio.github.io/static/media/ImanguMockupNewHomemade.9cce9cd4.png",
+    "static/media/Profile.69559d0a.jpg": "/sebfolio.github.io/static/media/Profile.69559d0a.jpg",
+    "static/media/work-styles.css": "/sebfolio.github.io/static/media/arrowLeft.04f86038.svg",
+    "static/media/grataMockupNewHomemade.ba3580ba.png": "/sebfolio.github.io/static/media/grataMockupNewHomemade.ba3580ba.png",
+    "static/media/mapMarker.cd6b0a85.png": "/sebfolio.github.io/static/media/mapMarker.cd6b0a85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1983f95d.js",
+    "static/js/runtime-main.c39a545e.js",
     "static/css/2.8887c2d4.chunk.css",
     "static/js/2.6de91a65.chunk.js",
-    "static/css/main.a41dc40d.chunk.css",
-    "static/js/main.d0034b93.chunk.js"
+    "static/css/main.a0e8046e.chunk.css",
+    "static/js/main.df7e3992.chunk.js"
   ]
 }
