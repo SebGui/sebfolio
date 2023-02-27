@@ -1,4 +1,4 @@
-# Sebfolio / Sebastien Guibourdin - Front end engineer Portfolio
+# Sebfolio
 
 This is a responsive (desktop, tablet, mobile compatible) portfolio developed with ReactJS to showcase my experience as a front end engineer.
 It has 5 sections: Home, About Me, Skills, My Work and Contact details.
