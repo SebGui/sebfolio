@@ -28,8 +28,8 @@ It also has a form that sends email to myself for any request.
 
 # How to serve the build folder using express js
 
-Open cmd and go to the folder folder location-- cd [BuildForlderPath]
-Then execute the commands below:
+Open terminal
+Go to the folder location
 npm install -g serve
 serve -s build
 
