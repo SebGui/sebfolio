@@ -4,7 +4,7 @@ This is a responsive (desktop, tablet, mobile compatible) portfolio developed wi
 It has 5 sections: Home, About Me, Skills, My Work and Contact details.
 It also has my social media links.
 
-# Project Setup:
+# Sections
 
 Project was bootstrapped with [Create React App] and served via GitHub Pages.
 The features are detailed section-wise:
