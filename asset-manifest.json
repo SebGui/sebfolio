@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/sebfolio/static/css/main.61e1e9b4.chunk.css",
-    "main.js": "/sebfolio/static/js/main.fbaa3ea4.chunk.js",
-    "main.js.map": "/sebfolio/static/js/main.fbaa3ea4.chunk.js.map",
-    "runtime-main.js": "/sebfolio/static/js/runtime-main.84173188.js",
-    "runtime-main.js.map": "/sebfolio/static/js/runtime-main.84173188.js.map",
-    "static/css/2.8887c2d4.chunk.css": "/sebfolio/static/css/2.8887c2d4.chunk.css",
-    "static/js/2.6de91a65.chunk.js": "/sebfolio/static/js/2.6de91a65.chunk.js",
-    "static/js/2.6de91a65.chunk.js.map": "/sebfolio/static/js/2.6de91a65.chunk.js.map",
+    "main.css": "/sebfolio/static/css/main.027786b3.chunk.css",
+    "main.js": "/sebfolio/static/js/main.5c6e475e.chunk.js",
+    "main.js.map": "/sebfolio/static/js/main.5c6e475e.chunk.js.map",
+    "runtime-main.js": "/sebfolio/static/js/runtime-main.ef1f1e98.js",
+    "runtime-main.js.map": "/sebfolio/static/js/runtime-main.ef1f1e98.js.map",
+    "static/css/2.8ae0d9e4.chunk.css": "/sebfolio/static/css/2.8ae0d9e4.chunk.css",
+    "static/js/2.56c73cf2.chunk.js": "/sebfolio/static/js/2.56c73cf2.chunk.js",
+    "static/js/2.56c73cf2.chunk.js.map": "/sebfolio/static/js/2.56c73cf2.chunk.js.map",
     "index.html": "/sebfolio/index.html",
-    "static/css/2.8887c2d4.chunk.css.map": "/sebfolio/static/css/2.8887c2d4.chunk.css.map",
-    "static/css/main.61e1e9b4.chunk.css.map": "/sebfolio/static/css/main.61e1e9b4.chunk.css.map",
-    "static/js/2.6de91a65.chunk.js.LICENSE.txt": "/sebfolio/static/js/2.6de91a65.chunk.js.LICENSE.txt",
+    "static/css/2.8ae0d9e4.chunk.css.map": "/sebfolio/static/css/2.8ae0d9e4.chunk.css.map",
+    "static/css/main.027786b3.chunk.css.map": "/sebfolio/static/css/main.027786b3.chunk.css.map",
+    "static/js/2.56c73cf2.chunk.js.LICENSE.txt": "/sebfolio/static/js/2.56c73cf2.chunk.js.LICENSE.txt",
     "static/media/160gMockupNewHomemade.13038d0f.png": "/sebfolio/static/media/160gMockupNewHomemade.13038d0f.png",
     "static/media/CerbexMockupNewHomemade.192982d4.png": "/sebfolio/static/media/CerbexMockupNewHomemade.192982d4.png",
     "static/media/ImanguMockupNewHomemade.9cce9cd4.png": "/sebfolio/static/media/ImanguMockupNewHomemade.9cce9cd4.png",
     "static/media/Profile.69559d0a.jpg": "/sebfolio/static/media/Profile.69559d0a.jpg",
+    "static/media/gitpng.d37deb14.png": "/sebfolio/static/media/gitpng.d37deb14.png",
     "static/media/grataMockupNewHomemade.ba3580ba.png": "/sebfolio/static/media/grataMockupNewHomemade.ba3580ba.png",
     "static/media/mapMarker.cd6b0a85.png": "/sebfolio/static/media/mapMarker.cd6b0a85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.84173188.js",
-    "static/css/2.8887c2d4.chunk.css",
-    "static/js/2.6de91a65.chunk.js",
-    "static/css/main.61e1e9b4.chunk.css",
-    "static/js/main.fbaa3ea4.chunk.js"
+    "static/js/runtime-main.ef1f1e98.js",
+    "static/css/2.8ae0d9e4.chunk.css",
+    "static/js/2.56c73cf2.chunk.js",
+    "static/css/main.027786b3.chunk.css",
+    "static/js/main.5c6e475e.chunk.js"
   ]
 }
